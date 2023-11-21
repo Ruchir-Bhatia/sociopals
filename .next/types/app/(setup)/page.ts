@@ -1,4 +1,4 @@
-// File: /Users/ruchirbhatia/Documents/GitHub/sociopals/app/(setup)/page.tsx
+// File: /Users/ruchirbhatia/Documents/GitHub/SocioPals2/app/(setup)/page.tsx
 import * as entry from '../../../../app/(setup)/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

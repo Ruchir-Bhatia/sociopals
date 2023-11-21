@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/ruchirbhatia/Documents/GitHub/sociopals/app/layout\":[\"static/media/ed347bcde018be70-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/ruchirbhatia/Documents/GitHub/SocioPals2/app/layout\":[\"static/media/ed347bcde018be70-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

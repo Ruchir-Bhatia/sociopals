@@ -1,4 +1,4 @@
-// File: /Users/ruchirbhatia/Documents/GitHub/sociopals/app/(main)/(routes)/servers/[serverId]/layout.tsx
+// File: /Users/ruchirbhatia/Documents/GitHub/SocioPals2/app/(main)/(routes)/servers/[serverId]/layout.tsx
 import * as entry from '../../../../../../../app/(main)/(routes)/servers/[serverId]/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

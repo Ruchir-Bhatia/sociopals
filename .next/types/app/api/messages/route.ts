@@ -1,4 +1,4 @@
-// File: /Users/ruchirbhatia/Documents/GitHub/sociopals/app/api/messages/route.ts
+// File: /Users/ruchirbhatia/Documents/GitHub/SocioPals2/app/api/messages/route.ts
 import * as entry from '../../../../../app/api/messages/route.js'
 import type { NextRequest } from 'next/server.js'
 
